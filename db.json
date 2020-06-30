@@ -11,5 +11,14 @@
   "TipoCoordSS": [
     "Coordenador",
     "ViceCoordenador"
-  ]
+  ],
+  "LinhaPesquisa": [
+    {
+      "idLinhaPesquisa": 1,
+      "nome": "nome Teste",
+      "descricao": "descricao Teste",
+      "dataini": "2020-01-30T17:27:26.174Z",
+      "datafim": "2020-06-30T17:27:26.174Z"
+    }
+  ]  
 }
