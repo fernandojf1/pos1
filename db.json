@@ -1,0 +1,15 @@
+{
+  "TipoSS": [
+    "Acadêmico",
+    "Profissional"
+  ],
+  "Modalidade": [
+    "Presencial",
+    "A distância",
+    "Semipresencial"
+  ],
+  "TipoCoordSS": [
+    "Coordenador",
+    "ViceCoordenador"
+  ]
+}
